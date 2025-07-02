@@ -1,6 +1,6 @@
 # 📊 DataScience-learning
 
-Welcome to the **My-DataScience-learning** repository!  
+Welcome to **My-DataScience-learning** repository!  
 This repo is dedicated to my learning, practicing, and applying concepts in **Data Science**, from the foundations of Python for data analysis to machine learning and data visualization.
 
 ## 🧠 What it Contains
